@@ -1,4 +1,0 @@
-com.example.wordle
-mipmap ic_launcher
-mipmap ic_launcher_round
-style AppTheme
